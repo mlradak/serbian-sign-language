@@ -3,7 +3,7 @@
 
 This SSL Dataset can be used to create Machine Learning models: Games, Educational Material, Communication Software, ...
 
-### SSL Dataset Contents:
+### SSL Dataset Contents (file count):
 ```
 A = 211 |Б = 264 |В = 265 |Г = 220 |Д = 215 |Ђ = 222 |Е = 231 |Ж = 225 |З = 224 |И = 240 |
 Ј = 247 |К = 205 |Л = 451 |Љ = 191 |М = 226 |Н = 227 |Њ = 208 |О = 409 |П = 363 |Р = 294 |
