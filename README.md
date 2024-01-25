@@ -9,7 +9,7 @@ A = 211 |Б = 264 |В = 265 |Г = 220 |Д = 215 |Ђ = 222 |Е = 231 |Ж = 225 |�
 Ј = 247 |К = 205 |Л = 451 |Љ = 191 |М = 226 |Н = 227 |Њ = 208 |О = 409 |П = 363 |Р = 294 |
 С = 296 |Т = 302 |Ћ = 269 |У = 200 |Ф = 184 |Х = 303 |Ц = 285 |Ч = 262 |Џ = 256 |Ш = 257 |
 ```
-![image](https://github.com/mlradak/serbian-sign-language/assets/17915461/e5f7a2ed-35bd-4268-a91f-4d2469ca3e04)
+![11-r - Katarina D - primer Rev1](https://github.com/mlradak/serbian-sign-language/assets/17915461/b39250a9-1bf4-4ba3-aa50-c9a3a098ca98)
 _Figure 1. NumPy file structure used in SSL dataset_
 
 
